@@ -1,5 +1,5 @@
 # Dengue–Rainfall Dataset
-### Multi-Scale Weekly Dengue–Rainfall Dataset Across the Philippines and Endemic Countries (2010–2025)
+### Weekly Dengue Incidence Linked to Satellite Rainfall at City, Regional, and Country Scales
 
 ---
 
@@ -361,7 +361,7 @@ If you use this dataset, please cite:
 
 ```bibtex
 @article{Matavia2025,
-  title   = {Multi-Scale Weekly Dengue--Rainfall Dataset Across the Philippines and Endemic Countries (2010--2025)},
+  title   = {Weekly Dengue Incidence Linked to Satellite Rainfall at City, Regional, and Country Scales},
   author  = {Matavia, Troy Owen and Pelitro, Keanu John and Manzano, Julia Fye and Soriano, Kylone and Bilbao, Klara and Garcia, Gereka Marie and Delos Angeles, Aira Joy and Lagmay, Alfredo Mahar and Bandoy, DJ Darwin},
   journal = {xxxx},
   volume  = {},
